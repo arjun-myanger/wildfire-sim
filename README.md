@@ -175,12 +175,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### 🤖 AI Generated
-
-This project was enhanced with AI assistance using [Claude Code](https://claude.ai/code).
-
-**Co-Authored-By:** Claude <noreply@anthropic.com>
-
----
-
 ⭐ **Star this repository** if you find it useful for wildfire research, education, or simulation purposes!
